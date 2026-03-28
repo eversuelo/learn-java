@@ -1,4 +1,4 @@
-public class PrimitivosEnteros {
+public class PrimitivesIntegers {
     public static void main(String[] args) {
 
         byte numeroByte = 127;

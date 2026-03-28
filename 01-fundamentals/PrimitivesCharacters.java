@@ -1,4 +1,4 @@
-public class PrimitivosCaracteres {
+public class PrimitivesCharacters {
     public static void main(String[] args) {
         char caracter = '\u0040';
         char decimal = 64;

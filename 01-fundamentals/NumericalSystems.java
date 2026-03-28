@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class SistemasNumericos {
+public class NumericalSystems {
     public static void main(String[] args) {
 
         String numeroStr = JOptionPane.showInputDialog(null, "Ingrese un número entero");

@@ -1,4 +1,4 @@
-public class ConversionDeTipos {
+public class TypeConversion {
     public static void main(String[] args) {
         String numeroStr = "50";
         
