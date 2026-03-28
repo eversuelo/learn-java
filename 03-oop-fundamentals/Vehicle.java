@@ -1,4 +1,3 @@
-package classes.second.example;
 
 public class Vehicle {
     /** Properties */

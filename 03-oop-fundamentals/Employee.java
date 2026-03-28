@@ -1,4 +1,3 @@
-package classes.second.example;
 
 class Employee {
     private String firstName;
