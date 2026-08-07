@@ -9,6 +9,15 @@ public class Primitives {
         char character = 'A';// Unicode 16 bits
         boolean flag = true;
 
+        System.out.println("byte: " + b + " (" + Byte.SIZE + " bits)");
+        System.out.println("short: " + numberShort + " (" + Short.SIZE + " bits)");
+        System.out.println("int: " + numberInt + " (" + Integer.SIZE + " bits)");
+        System.out.println("long: " + numberLong + " (" + Long.SIZE + " bits)");
+        System.out.println("float: " + numberFloat + " (" + Float.SIZE + " bits)");
+        System.out.println("double: " + numberDouble + " (" + Double.SIZE + " bits)");
+        System.out.println("char: " + character + " (" + Character.SIZE + " bits)");
+        System.out.println("boolean: " + flag);
+
         // Arithmetic Operators
         int a = 10;
         int c = 5;

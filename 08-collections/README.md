@@ -37,7 +37,7 @@ Use stacks when:
 ## Connection to Existing Repository Content
 
 This repository already includes related material under:
-- [algorithms-data-structures/04-data-structures](/home/eversuelo/Code/Projects/learn-java/algorithms-data-structures/04-data-structures)
+- [algorithms-data-structures/04-data-structures](../algorithms-data-structures/04-data-structures)
 
 That content should eventually be connected to concrete Java collection examples in this folder.
 

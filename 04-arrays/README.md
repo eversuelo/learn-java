@@ -91,4 +91,4 @@ This folder maps to topics such as:
 
 ## Next Module
 
-Continue with [05-functions](/home/eversuelo/Code/Projects/learn-java/05-functions/README.md) to learn how to break logic into reusable methods.
+Continue with [05-functions](../05-functions/README.md) to learn how to break logic into reusable methods.

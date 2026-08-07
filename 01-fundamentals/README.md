@@ -140,4 +140,4 @@ java Variables
 
 ## Next Module
 
-After this folder, continue to [02-control-flow](/home/eversuelo/Code/Projects/learn-java/02-control-flow/README.md).
+After this folder, continue to [02-control-flow](../02-control-flow/README.md).

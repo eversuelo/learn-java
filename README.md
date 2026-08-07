@@ -8,7 +8,7 @@ The goal of this project is not only to collect `.java` files, but to turn the r
 ## Learning Path
 
 ### 1. Fundamentals
-Start in [01-fundamentals](/home/eversuelo/Code/Projects/learn-java/01-fundamentals/README.md).
+Start in [01-fundamentals](01-fundamentals/README.md).
 
 This module introduces:
 - Java as a compiled language that runs on the JVM.
@@ -26,7 +26,7 @@ Main examples:
 - `NumericalSystemsScannerInput.java`
 
 ### 2. Control Flow
-Continue with [02-control-flow](/home/eversuelo/Code/Projects/learn-java/02-control-flow/README.md).
+Continue with [02-control-flow](02-control-flow/README.md).
 
 This module covers:
 - Comparison operators.
@@ -41,7 +41,7 @@ Main examples:
 - `ControlFlowSwitch.java`
 
 ### 3. Loops
-Then study [03-loops](/home/eversuelo/Code/Projects/learn-java/03-loops/README.md).
+Then study [03-loops](03-loops/README.md).
 
 This module explains:
 - Counting loops with `for`.
@@ -50,7 +50,7 @@ This module explains:
 - Iteration over arrays and collections with `for-each`.
 
 ### 4. Arrays and Methods
-The folders [04-arrays](/home/eversuelo/Code/Projects/learn-java/04-arrays/README.md) and [05-functions](/home/eversuelo/Code/Projects/learn-java/05-functions/README.md) are prepared as the next natural step in the course.
+The folders [04-arrays](04-arrays/README.md) and [05-functions](05-functions/README.md) are prepared as the next natural step in the course.
 
 They document what you should study next:
 - One-dimensional and two-dimensional arrays.
@@ -58,7 +58,7 @@ They document what you should study next:
 - Method declaration, parameters, return values, and scope.
 
 ### 5. Object-Oriented Programming
-Move into [06-oop](/home/eversuelo/Code/Projects/learn-java/06-oop/README.md).
+Move into [06-oop](06-oop/README.md).
 
 This module introduces:
 - Classes and objects.
@@ -73,10 +73,10 @@ Main examples:
 
 ### 6. Reuse, Abstraction, and Collections
 The next folders prepare the path toward more advanced Java:
-- [07-oop-extending](/home/eversuelo/Code/Projects/learn-java/07-oop-extending/README.md)
-- [08-collections](/home/eversuelo/Code/Projects/learn-java/08-collections/README.md)
-- [algorithms-data-structures](/home/eversuelo/Code/Projects/learn-java/algorithms-data-structures/README.md)
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [07-oop-extending](07-oop-extending/README.md)
+- [08-collections](08-collections/README.md)
+- [algorithms-data-structures](algorithms-data-structures/README.md)
+- [applications](applications/README.md)
 
 These sections connect the current repository to topics such as:
 - Inheritance and composition.
@@ -146,4 +146,4 @@ Any modern JDK is fine for these examples. JDK 17 or JDK 21 is a practical choic
 
 ## Next Step
 
-Start with [01-fundamentals](/home/eversuelo/Code/Projects/learn-java/01-fundamentals/README.md), run every file, and write one variation of each example before moving on.
+Start with [01-fundamentals](01-fundamentals/README.md), run every file, and write one variation of each example before moving on.

@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+
+# Packaged artifacts
+*.jar
+*.war
+*.ear
+
+# Build output directories
+target/
+build/
+out/
+bin/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db

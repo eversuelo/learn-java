@@ -109,4 +109,4 @@ This module maps directly to:
 
 ## Next Module
 
-Continue with [07-oop-extending](/home/eversuelo/Code/Projects/learn-java/07-oop-extending/README.md).
+Continue with [07-oop-extending](../07-oop-extending/README.md).

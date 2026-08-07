@@ -88,4 +88,4 @@ java ControlFlowIf
 
 ## Next Module
 
-After this folder, continue to [03-loops](/home/eversuelo/Code/Projects/learn-java/03-loops/README.md).
+After this folder, continue to [03-loops](../03-loops/README.md).

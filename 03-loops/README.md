@@ -90,4 +90,4 @@ java ForLoop
 
 ## Next Module
 
-After loops, move to [04-arrays](/home/eversuelo/Code/Projects/learn-java/04-arrays/README.md).
+After loops, move to [04-arrays](../04-arrays/README.md).

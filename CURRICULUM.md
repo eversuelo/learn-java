@@ -12,7 +12,7 @@ This document reorganizes the larger Java syllabus into a practical study plan t
 - Your first console program.
 
 Repository anchor:
-- [01-fundamentals](/home/eversuelo/Code/Projects/learn-java/01-fundamentals/README.md)
+- [01-fundamentals](01-fundamentals/README.md)
 
 ### Chapter 2. Comments, Identifiers, Types, Variables, and Literals
 - Single-line comments, block comments, and Javadoc.
@@ -22,7 +22,7 @@ Repository anchor:
 - Reading literals in source code.
 
 Repository anchor:
-- [01-fundamentals](/home/eversuelo/Code/Projects/learn-java/01-fundamentals/README.md)
+- [01-fundamentals](01-fundamentals/README.md)
 
 ### Chapter 3. Expressions and Operators
 - Arithmetic operators.
@@ -32,7 +32,7 @@ Repository anchor:
 - Operator precedence and readability.
 
 Repository anchor:
-- [02-control-flow](/home/eversuelo/Code/Projects/learn-java/02-control-flow/README.md)
+- [02-control-flow](02-control-flow/README.md)
 
 ### Chapter 4. Statements and Decision-Making
 - Expression statements.
@@ -41,7 +41,7 @@ Repository anchor:
 - `return`, `break`, and `continue`.
 
 Repository anchor:
-- [02-control-flow](/home/eversuelo/Code/Projects/learn-java/02-control-flow/README.md)
+- [02-control-flow](02-control-flow/README.md)
 
 ### Chapter 5. Loops
 - `for`
@@ -51,7 +51,7 @@ Repository anchor:
 - Selecting the right loop for the problem
 
 Repository anchor:
-- [03-loops](/home/eversuelo/Code/Projects/learn-java/03-loops/README.md)
+- [03-loops](03-loops/README.md)
 
 ### Chapter 6. Arrays
 - Array declaration and initialization.
@@ -61,7 +61,7 @@ Repository anchor:
 - 2D arrays and matrix thinking.
 
 Repository anchor:
-- [04-arrays](/home/eversuelo/Code/Projects/learn-java/04-arrays/README.md)
+- [04-arrays](04-arrays/README.md)
 
 ### Chapter 7. Methods
 - Defining methods.
@@ -71,7 +71,7 @@ Repository anchor:
 - Decomposition and reuse.
 
 Repository anchor:
-- [05-functions](/home/eversuelo/Code/Projects/learn-java/05-functions/README.md)
+- [05-functions](05-functions/README.md)
 
 ## Part II. Object-Oriented Java
 
@@ -83,7 +83,7 @@ Repository anchor:
 - Encapsulation basics.
 
 Repository anchor:
-- [06-oop](/home/eversuelo/Code/Projects/learn-java/06-oop/README.md)
+- [06-oop](06-oop/README.md)
 
 ### Chapter 9. Inheritance and Composition
 - `extends`
@@ -92,7 +92,7 @@ Repository anchor:
 - Why composition is often safer than deep inheritance.
 
 Repository anchor:
-- [07-oop-extending](/home/eversuelo/Code/Projects/learn-java/07-oop-extending/README.md)
+- [07-oop-extending](07-oop-extending/README.md)
 
 ### Chapter 10. Polymorphism and Interfaces
 - Upcasting.
@@ -102,7 +102,7 @@ Repository anchor:
 - Designing to behavior, not concrete type.
 
 Repository anchor:
-- [07-oop-extending](/home/eversuelo/Code/Projects/learn-java/07-oop-extending/README.md)
+- [07-oop-extending](07-oop-extending/README.md)
 
 ### Chapter 11. Nested Classes and Packages
 - Static nested classes.
@@ -112,8 +112,8 @@ Repository anchor:
 - Organizing larger projects.
 
 Repository anchors:
-- [07-oop-extending](/home/eversuelo/Code/Projects/learn-java/07-oop-extending/README.md)
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [07-oop-extending](07-oop-extending/README.md)
+- [applications](applications/README.md)
 
 ## Part III. Standard Library and Robustness
 
@@ -124,7 +124,7 @@ Repository anchors:
 - Try-with-resources.
 
 Suggested extension target:
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [applications](applications/README.md)
 
 ### Chapter 13. Math and Numeric Precision
 - `Math`
@@ -134,7 +134,7 @@ Suggested extension target:
 - Why floating-point values need care
 
 Suggested extension target:
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [applications](applications/README.md)
 
 ### Chapter 14. Strings and Text Processing
 - String creation and comparison.
@@ -143,7 +143,7 @@ Suggested extension target:
 - `StringBuilder` and mutable text.
 
 Suggested extension target:
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [applications](applications/README.md)
 
 ### Chapter 15. System and Runtime Behavior
 - Standard input, output, and error.
@@ -152,7 +152,7 @@ Suggested extension target:
 - Garbage collection basics.
 
 Suggested extension target:
-- [applications](/home/eversuelo/Code/Projects/learn-java/applications/README.md)
+- [applications](applications/README.md)
 
 ## Part IV. Data Structures and Problem Solving
 
@@ -162,7 +162,7 @@ Suggested extension target:
 - When to use each structure.
 
 Repository anchor:
-- [08-collections](/home/eversuelo/Code/Projects/learn-java/08-collections/README.md)
+- [08-collections](08-collections/README.md)
 
 ### Chapter 17. Complexity Analysis and Recursion
 - Big O notation.
@@ -170,7 +170,7 @@ Repository anchor:
 - Recursive reasoning.
 
 Repository anchor:
-- [algorithms-data-structures](/home/eversuelo/Code/Projects/learn-java/algorithms-data-structures/README.md)
+- [algorithms-data-structures](algorithms-data-structures/README.md)
 
 ## Study Advice
 
