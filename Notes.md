@@ -1,0 +1,5 @@
+- Java es el lenguaje preferido para satisfacer las necesidades de programación empresariales de muchas organizaciones.
+- Antes de Java SE 8, Java soportaba tres paradigmas de programación: programación por procedimientos, programación orientada a objetos y programación genérica. Java SE 8 agrega la programación funcional.
+
+- Java Enterprise Edition: Java se utiliza en un espectro tan amplio de aplicaciones que tiene otras dos ediciones. Java Enterprise Edition (Java EE) está orientada hacia el desarrollo de aplicaciones de red distribuidas, de gran escala, y aplicaciones basadas en Web. En el pasado, la mayoría de las aplicaciones de computadora se ejecutaban en computadoras “independientes” (que no estaban conectadas en red). En la actualidad se pueden escribir aplicaciones que se comuniquen con computadoras en todo el mundo por medio de Internet y Web. 
+- Java Micro Edition (Java ME) (un subconjunto de Java SE) está orientada hacia el desarrollo de aplicaciones para pequeños dispositivos incrustados con una capacidad limitada de memoria
