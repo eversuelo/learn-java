@@ -13,5 +13,9 @@ public class DoWhileLoop {
             System.out.println("Counter: " + counter);
             counter++;
         } while (counter <= 5);
+        while (counter>= 5 && counter <= 10) {
+            System.out.println("Counter: " + counter);
+            counter++;
+        }
     }
 }

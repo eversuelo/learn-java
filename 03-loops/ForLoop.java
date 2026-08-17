@@ -14,5 +14,8 @@ public class ForLoop {
         for (int i = 1; i <= 5; i++) {
             System.out.println("Iteration number: " + i);
         }
+        for(float i2 = 1.0f; i2 <= 5.0f; i2 += 0.5f) {
+            System.out.println("Iteration number: " + i2);
+        }
     }
 }
