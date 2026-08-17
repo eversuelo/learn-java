@@ -2,6 +2,9 @@
 
 This document reorganizes the larger Java syllabus into a practical study plan that matches the current repository.
 
+It covers the **language** only. For the full sequence - including the algorithms phase, the
+CLRS analysis track, and the JavaFX visualizer - see [STUDY-PLAN.md](STUDY-PLAN.md).
+
 ## Part I. Core Language Foundations
 
 ### Chapter 1. Getting Started with Java
@@ -73,6 +76,20 @@ Repository anchor:
 Repository anchor:
 - [05-functions](05-functions/README.md)
 
+### Chapter 7b. Recursion
+- Base case and recursive case.
+- The call stack.
+- Work before versus after the recursive call.
+- Recursion trees and repeated subproblems.
+- When recursion is clearer than iteration, and when it is not.
+
+Repository anchor:
+- [06-recursion](06-recursion/README.md)
+
+This chapter is not in the original syllabus, and it is the most important addition to it.
+Every divide-and-conquer algorithm, every tree traversal, and all of backtracking and dynamic
+programming depend on it.
+
 ## Part II. Object-Oriented Java
 
 ### Chapter 8. Classes and Objects
@@ -83,7 +100,7 @@ Repository anchor:
 - Encapsulation basics.
 
 Repository anchor:
-- [06-oop](06-oop/README.md)
+- [07-oop](07-oop/README.md)
 
 ### Chapter 9. Inheritance and Composition
 - `extends`
@@ -92,7 +109,7 @@ Repository anchor:
 - Why composition is often safer than deep inheritance.
 
 Repository anchor:
-- [07-oop-extending](07-oop-extending/README.md)
+- [08-oop-extending](08-oop-extending/README.md)
 
 ### Chapter 10. Polymorphism and Interfaces
 - Upcasting.
@@ -102,7 +119,7 @@ Repository anchor:
 - Designing to behavior, not concrete type.
 
 Repository anchor:
-- [07-oop-extending](07-oop-extending/README.md)
+- [08-oop-extending](08-oop-extending/README.md)
 
 ### Chapter 11. Nested Classes and Packages
 - Static nested classes.
@@ -112,8 +129,23 @@ Repository anchor:
 - Organizing larger projects.
 
 Repository anchors:
-- [07-oop-extending](07-oop-extending/README.md)
-- [applications](applications/README.md)
+- [08-oop-extending](08-oop-extending/README.md)
+- [dsa-core](dsa-core/README.md)
+
+Packages stop being theoretical in `dsa-core`, which is the first part of this repository
+organized as a real multi-package project rather than as loose files.
+
+### Chapter 11b. Generics
+- Type parameters on classes and methods.
+- Bounded types, such as `<T extends Comparable<T>>`.
+- Type erasure and what it prevents.
+- Invariance and wildcards.
+
+Repository anchor:
+- [10-generics](10-generics/README.md)
+
+Also not in the original syllabus, and also required. Without generics, every data structure you
+write in `dsa-core` would store `Object` and cast on the way out.
 
 ## Part III. Standard Library and Robustness
 
@@ -123,8 +155,8 @@ Repository anchors:
 - `throw` and `throws`.
 - Try-with-resources.
 
-Suggested extension target:
-- [applications](applications/README.md)
+Repository anchor:
+- [09-exceptions](09-exceptions/README.md)
 
 ### Chapter 13. Math and Numeric Precision
 - `Math`
@@ -133,8 +165,9 @@ Suggested extension target:
 - `BigInteger`
 - Why floating-point values need care
 
-Suggested extension target:
-- [applications](applications/README.md)
+Optional side module. Create `12-math/` when you need it. Nothing here blocks the DSA phases,
+but `Math` and `Random` show up immediately in the benchmark harness in
+[analysis](analysis/README.md), which needs seeded random input.
 
 ### Chapter 14. Strings and Text Processing
 - String creation and comparison.
@@ -142,8 +175,8 @@ Suggested extension target:
 - Useful `String` methods.
 - `StringBuilder` and mutable text.
 
-Suggested extension target:
-- [applications](applications/README.md)
+Optional side module. Create `13-strings/` when you need it. Worth doing before the `Trie` and
+the string-algorithm sections of the DSA phase.
 
 ### Chapter 15. System and Runtime Behavior
 - Standard input, output, and error.
@@ -151,8 +184,9 @@ Suggested extension target:
 - Time measurement.
 - Garbage collection basics.
 
-Suggested extension target:
-- [applications](applications/README.md)
+Optional side module. Create `14-system/` when you need it. Time measurement in particular
+becomes relevant in [analysis](analysis/README.md) - along with the reasons why wall-clock
+timing is a poor primary measurement compared to counting operations.
 
 ## Part IV. Data Structures and Problem Solving
 
@@ -162,7 +196,7 @@ Suggested extension target:
 - When to use each structure.
 
 Repository anchor:
-- [08-collections](08-collections/README.md)
+- [11-collections](11-collections/README.md)
 
 ### Chapter 17. Complexity Analysis and Recursion
 - Big O notation.
@@ -170,7 +204,8 @@ Repository anchor:
 - Recursive reasoning.
 
 Repository anchor:
-- [algorithms-data-structures](algorithms-data-structures/README.md)
+- [dsa-core](dsa-core/README.md)
+- [analysis](analysis/README.md)
 
 ## Study Advice
 

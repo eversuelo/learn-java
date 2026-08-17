@@ -83,4 +83,4 @@ If you skip methods, classes will feel harder than they need to be.
 
 ## Next Module
 
-Continue with [06-oop](../06-oop/README.md).
+Continue with [06-recursion](../06-recursion/README.md).

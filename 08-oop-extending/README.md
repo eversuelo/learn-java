@@ -1,4 +1,4 @@
-# 07 Reusing Classes: Inheritance, Composition, and Polymorphism
+# 08 Reusing Classes: Inheritance, Composition, and Polymorphism
 
 This folder is the natural continuation of object-oriented programming.
 It does not yet contain code, but it defines the next set of concepts the repository should teach.
@@ -72,3 +72,7 @@ This folder is where the following chapters should live:
 2. Override one method in the subclass.
 3. Refactor one inheritance example into composition.
 4. Create an interface and implement it in two classes.
+
+## Next Module
+
+Continue with [09-exceptions](../09-exceptions/README.md).

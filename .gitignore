@@ -12,6 +12,9 @@ build/
 out/
 bin/
 
+# Generated measurement data
+analysis/results/
+
 # JVM crash logs
 hs_err_pid*
 replay_pid*

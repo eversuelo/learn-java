@@ -1,4 +1,4 @@
-# 06 Object-Oriented Programming
+# 07 Object-Oriented Programming
 
 This module introduces one of the central ideas in Java: modeling data and behavior together using classes and objects.
 
@@ -109,4 +109,4 @@ This module maps directly to:
 
 ## Next Module
 
-Continue with [07-oop-extending](../07-oop-extending/README.md).
+Continue with [08-oop-extending](../08-oop-extending/README.md).
