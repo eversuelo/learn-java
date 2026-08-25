@@ -1,5 +1,8 @@
 import java.util.Stack;
-
+/**
+ * Stack is a data structure that follows the Last-In, First-Out (LIFO) principle.
+ * This means that the element that is added last will be removed first.
+ */
 class StackExample {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
